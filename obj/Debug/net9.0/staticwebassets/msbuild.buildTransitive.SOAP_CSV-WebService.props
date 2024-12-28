@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\SOAP_CSV-WebService.props" />
+</Project>

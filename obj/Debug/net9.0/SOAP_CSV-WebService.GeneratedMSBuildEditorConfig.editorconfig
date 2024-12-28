@@ -1,5 +1,4 @@
 is_global = true
-build_property.EnableCoreWCFOperationInvokerGenerator = false
 build_property.TargetFramework = net9.0
 build_property.TargetPlatformMinVersion = 
 build_property.UsingMicrosoftNETSdkWeb = true
@@ -8,8 +7,8 @@ build_property.InvariantGlobalization =
 build_property.PlatformNeutralAssembly = 
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
-build_property.RootNamespace = SOAP_CSV_WebService
-build_property.RootNamespace = SOAP_CSV_WebService
+build_property.RootNamespace = SOAP_CSV-WebService
+build_property.RootNamespace = SOAP_CSV-WebService
 build_property.ProjectDir = C:\Users\Lenovo\Desktop\SOAP-API_Rider\SOAP_CSV-WebService\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 

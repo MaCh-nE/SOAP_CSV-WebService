@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "KedTXmG5V11/69wOxHbr8Zw3mhvn01TOznawiKdrte4=",
+  "Source": "SOAP_CSV-WebService",
+  "BasePath": "_content/SOAP_CSV-WebService",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}

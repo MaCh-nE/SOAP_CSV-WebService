@@ -12,7 +12,4 @@
   <ItemGroup Condition=" '$(ExcludeRestorePackageImports)' != 'true' ">
     <SourceRoot Include="C:\Users\Lenovo\.nuget\packages\" />
   </ItemGroup>
-  <ImportGroup Condition=" '$(ExcludeRestorePackageImports)' != 'true' ">
-    <Import Project="$(NuGetPackageRoot)corewcf.primitives\1.6.0\buildTransitive\CoreWCF.Primitives.props" Condition="Exists('$(NuGetPackageRoot)corewcf.primitives\1.6.0\buildTransitive\CoreWCF.Primitives.props')" />
-  </ImportGroup>
 </Project>

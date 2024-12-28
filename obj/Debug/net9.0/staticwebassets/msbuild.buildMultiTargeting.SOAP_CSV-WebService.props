@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\SOAP_CSV-WebService.props" />
+</Project>

@@ -10,11 +10,10 @@
 using System;
 using System.Reflection;
 
-[assembly: CoreWCF.EnableCoreWCFOperationInvokerGenerator(false)]
 [assembly: System.Reflection.AssemblyCompanyAttribute("SOAP_CSV-WebService")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+36f3a195f0660f2dbc2be9a6b993acf397c07b64")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+eb0117c7bb5e8cf95cd4cdec7f12558ec3d0af9e")]
 [assembly: System.Reflection.AssemblyProductAttribute("SOAP_CSV-WebService")]
 [assembly: System.Reflection.AssemblyTitleAttribute("SOAP_CSV-WebService")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
