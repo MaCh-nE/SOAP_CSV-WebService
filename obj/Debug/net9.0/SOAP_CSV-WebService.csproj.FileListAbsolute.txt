@@ -5,3 +5,4 @@ C:\Users\Lenovo\Desktop\SOAP-API_Rider\SOAP_CSV-WebService\obj\Debug\net9.0\SOAP
 C:\Users\Lenovo\Desktop\SOAP-API_Rider\SOAP_CSV-WebService\obj\Debug\net9.0\SOAP_CSV-WebService.csproj.CoreCompileInputs.cache
 C:\Users\Lenovo\Desktop\SOAP-API_Rider\SOAP_CSV-WebService\obj\Debug\net9.0\SOAP_CSV-WebService.MvcApplicationPartsAssemblyInfo.cs
 C:\Users\Lenovo\Desktop\SOAP-API_Rider\SOAP_CSV-WebService\obj\Debug\net9.0\SOAP_CSV-WebService.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Lenovo\Desktop\SOAP-API_Rider\SOAP_CSV-WebService\obj\Debug\net9.0\SOAP_CSV-WebService.sourcelink.json

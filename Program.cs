@@ -1,6 +1,7 @@
 using CoreWCF;
 using CoreWCF.Configuration;
 using CoreWCF.Description;
+using System.Net.Http;
 
 var builder = WebApplication.CreateBuilder(args);
 
