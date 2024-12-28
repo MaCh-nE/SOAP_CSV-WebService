@@ -13,7 +13,7 @@ public class CSVService : ICSVService
     public CsvFileResponse GetCSVFile()
     {
         // Path to your static CSV file in wwwroot folder
-        string filepath = Path.Combine(_environment.WebRootPath, "testCSV.csv");
+        string filepath = Path.Combine(Directory.GetCurrentDirectory(), "testCSV.csv");
         
         if (!File.Exists(filepath))
         {

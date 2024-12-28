@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("SOAP_CSV-WebService")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+eb0117c7bb5e8cf95cd4cdec7f12558ec3d0af9e")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+78c0bb71d6ebf6ab5c023d92f1f2a320b7662036")]
 [assembly: System.Reflection.AssemblyProductAttribute("SOAP_CSV-WebService")]
 [assembly: System.Reflection.AssemblyTitleAttribute("SOAP_CSV-WebService")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
