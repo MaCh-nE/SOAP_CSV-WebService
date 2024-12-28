@@ -1,0 +1,7 @@
+C:\Users\Lenovo\Desktop\SOAP-API_Rider\SOAP_CSV-WebService\obj\Debug\net9.0\SOAP_CSV-WebService.csproj.AssemblyReference.cache
+C:\Users\Lenovo\Desktop\SOAP-API_Rider\SOAP_CSV-WebService\obj\Debug\net9.0\SOAP_CSV-WebService.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\Desktop\SOAP-API_Rider\SOAP_CSV-WebService\obj\Debug\net9.0\SOAP_CSV-WebService.AssemblyInfoInputs.cache
+C:\Users\Lenovo\Desktop\SOAP-API_Rider\SOAP_CSV-WebService\obj\Debug\net9.0\SOAP_CSV-WebService.AssemblyInfo.cs
+C:\Users\Lenovo\Desktop\SOAP-API_Rider\SOAP_CSV-WebService\obj\Debug\net9.0\SOAP_CSV-WebService.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\SOAP-API_Rider\SOAP_CSV-WebService\obj\Debug\net9.0\SOAP_CSV-WebService.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Lenovo\Desktop\SOAP-API_Rider\SOAP_CSV-WebService\obj\Debug\net9.0\SOAP_CSV-WebService.MvcApplicationPartsAssemblyInfo.cache
